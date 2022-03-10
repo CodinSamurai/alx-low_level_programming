@@ -3,10 +3,10 @@
 /**
  * main - print the size of various types
  *
- * Description: prints the size of various types on thhe computer it is compiled
- * and run on
+ * Description: prints the size of various types on the computer it is 
+ * compiled and run on
  *
- * Return: ALways 0 (Success)
+ * Return: Allways 0 (Success)
  */
 
 int main(void)
