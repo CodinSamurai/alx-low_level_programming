@@ -51,4 +51,4 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		else
 			dr2 = 0;
 		bg--, size_r--;
-	}
+}
